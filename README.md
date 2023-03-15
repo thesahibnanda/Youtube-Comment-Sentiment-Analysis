@@ -17,7 +17,7 @@ Introducing YouTube Sentiment Analysis Tool, a sophisticated program that can sc
 
 Provide instructions on how to install this project, including any dependencies that need to be installed first. For example:
 
-    1. Clone the repository: `git clone https://github.com/yourusername/projectname.git`
+    1. Clone the repository: `git clone https://github.com/thesahibnanda/Youtube-Comment-Sentiment-Analysis.git`
     2. Install dependencies: `pip install -r requirements.txt`
 
 <br>
